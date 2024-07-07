@@ -55,8 +55,7 @@ This repository contains Python code for analyzing Airbnb listings data in Paris
   - Matplotlib and Seaborn for data visualization
 
 ## Conclusion
-This analysis provides insights into the dynamics of Airbnb listings in Paris, highlighting the impact of regulatory changes on the market.import pandas as pd
-import numpy as np
+This analysis provides insights into the dynamics of Airbnb listings in Paris, highlighting the impact of regulatory changes on the market.
 
 
 
