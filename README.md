@@ -13,11 +13,6 @@ To run the code, you need the following Python libraries:
 - seaborn
 - numpy
 
-You can install the required libraries using pip:
-```sh
-pip install pandas matplotlib seaborn numpy
-
-
 
 # Project_2
 # Airbnb Data Analysis in Paris
